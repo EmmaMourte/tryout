@@ -1,6 +1,6 @@
 # tryout
 
-Remove the blanks after the dot (".") from the link
+Remove the blanks after the dot (".") from the links
 
 **Udemy - ServiceNow 101-Administration**
 https://mega.    nz/#F!fDAglTzT!G0CQTwrwhEqPdRUO34EJOA
